@@ -3,7 +3,7 @@
 
 My name is Aman Singh. I'm a 1st year Student at Parul University pursuing my Btech degree in the CSE branch. I love to explore and learn new things that is one of the reasons I m here on Github. My 2021 goal is a lot of open source contributions.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: C++ / Java / Python
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning learning the Pyside2 module 
