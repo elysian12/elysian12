@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋
 ![](https://github.com/elysian12/elysian12/blob/main/header.png)
 
 My name is Aman Singh. I'm a 1st year Student at Parul University pursuing my Btech degree in the CSE branch. I love to explore and learn new things that is one of the reasons I m here on Github. My 2021 goal is a lot of open source contributions.
