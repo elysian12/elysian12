@@ -7,6 +7,7 @@ Skills: C++ / Java / Python / Flutter / Dart
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning learning the Pyside2 module 
+- 📱 I'm a Flutter Developer developing cross platform apps
 - ⚡ Fun fact: I like to play Music Instruments like Guitar And Casio. 
 
 
