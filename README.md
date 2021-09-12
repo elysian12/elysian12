@@ -1,12 +1,12 @@
 ### Hi there 👋
 ![](https://github.com/elysian12/elysian12/blob/main/header.png)
 
-My name is Aman Singh. I'm a 1st year Student at Parul University pursuing my Btech degree in the CSE branch. I love to explore and learn new things that is one of the reasons I m here on Github. My 2021 goal is a lot of open source contributions.
+My name is Aman Singh. I'm a 2nd year Student at Parul University pursuing my Btech degree in the CSE branch. I love to explore and learn new things that is one of the reasons I m here on Github. My 2021-2022 goal is a lot of open source contributions.
 
-Skills: C++ / Java / Python / Flutter / Dart
+Skills: C++ / Java / Python / Flutter / Dart / Node.js / MongoDB
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning learning the Pyside2 module 
+- 🌱 I’m currently learning Ios Apps. 
 - 📱 I'm a Flutter Developer developing cross platform apps
 - ⚡ Fun fact: I like to play Music Instruments like Guitar And Casio. 
 
