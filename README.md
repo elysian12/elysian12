@@ -5,8 +5,7 @@ My name is Aman Singh. I'm a 2nd year Student at Parul University pursuing my Bt
 
 Skills: C++ / Java / Python / Flutter / Dart / Node.js / MongoDB
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Ios Apps. 
+- 🌱 I’m currently learning Ios App Development. 
 - 📱 I'm a Flutter Developer developing cross platform apps
 - ⚡ Fun fact: I like to play Music Instruments like Guitar And Casio. 
 
