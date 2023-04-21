@@ -30,6 +30,7 @@ Hi, I am a Flutter Developer working at [Grappus](https://www.grappus.com/), and
 
 ## 📝 Blog Post: 
 <!-- BLOG-POST-LIST:START -->
+- [Integrate a Flutter module into your iOS project](https://medium.com/@amanofficial1232/integrate-a-flutter-module-into-your-ios-project-26de022715f6?source=rss-9d0ea3df1edc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🐦 Latest Tweet
