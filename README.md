@@ -30,6 +30,8 @@ Hi, I am a Flutter Developer working at [Grappus](https://www.grappus.com/), and
 
 ## 📝 Blog Post: 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Amazon DynamoDB](https://medium.com/@amanofficial1232/introduction-to-amazon-dynamodb-b9adddf3fbe0?source=rss-9d0ea3df1edc------2)
+- [A Practical Step-by-Step Tutorial for Launching and Accessing an EC2 Instance](https://medium.com/@amanofficial1232/a-practical-step-by-step-tutorial-for-launching-and-accessing-an-ec2-instance-51cf15c8f9af?source=rss-9d0ea3df1edc------2)
 - [Integrate a Flutter module into your iOS project](https://medium.com/@amanofficial1232/integrate-a-flutter-module-into-your-ios-project-26de022715f6?source=rss-9d0ea3df1edc------2)
 <!-- BLOG-POST-LIST:END -->
 
